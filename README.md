@@ -45,7 +45,7 @@ Estou seguindo um roteiro intensivo de desenvolvimento, com foco em:
 
 ### 📫 Vamos conversar?
 - 💼 [LinkedIn]((https://www.linkedin.com/in/manywell-wellyngton/))
-- 📂 [Meu Portfólio](https://manywellw.github.io)
+- 📂 [Meu Portfólio]([https://manywellw.github.io](https://github.com/manywellw))
 - 🌍 Atualmente em **Oxford, UK**.
 
 *"A tecnologia é a ferramenta que potencializa a gestão eficiente."*
