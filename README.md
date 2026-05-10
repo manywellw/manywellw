@@ -1,4 +1,4 @@
-# Olá, eu sou o Wellyngton Melo! 👋
+# Olá, me chamo Manywell (único kkkkk) ! 👋
 
 ### 👨‍💻 Desenvolvedor Full Stack em Formação | Especialista em Processos e Logística
 
@@ -38,14 +38,8 @@ Estou seguindo um roteiro intensivo de desenvolvimento, com foco em:
 
 ---
 
-### 📊 Estatísticas
-![Wellyngton's GitHub stats](https://github-readme-stats.vercel.app/api?username=manywellw&show_icons=true&theme=dark)
-
----
-
 ### 📫 Vamos conversar?
-- 💼 [LinkedIn]((https://www.linkedin.com/in/manywell-wellyngton/))
-- 📂 [Meu Portfólio]([https://manywellw.github.io](https://github.com/manywellw))
-- 🌍 Atualmente em **Oxford, UK**.
+- 💼 [LinkedIn](https://www.linkedin.com/in/manywell-wellyngton/)
+  
 
 *"A tecnologia é a ferramenta que potencializa a gestão eficiente."*
