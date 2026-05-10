@@ -1,16 +1,51 @@
-## Hi there 👋
+# Olá, eu sou o Wellyngton Melo! 👋
 
-<!--
-**manywellw/manywellw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Desenvolvedor Full Stack em Formação | Especialista em Processos e Logística
 
-Here are some ideas to get you started:
+Sou um entusiasta de tecnologia em transição de carreira. Unindo minha bagagem em **PCP, chão de fábrica e processos** e **Comercial** com o curso de **Engenharia de Software**, foco em criar soluções de software que otimizam processos reais e entregam valor estratégico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Jornada de Aprendizado (Full Stack)
+Estou seguindo um roteiro intensivo de desenvolvimento, com foco em:
+
+- **Frontend:** HTML5, CSS3 (SASS), React.jse Next.js.
+- **Backend:** Node.js, Express, MongoDB
+- **Linguagens:** JavaScript (ES6+), TypeScript
+- **Ferramentas:** Git, Versionamento e Terminal Shell.
+
+---
+
+### 🛠️ Tecnologias & Habilidades
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+---
+
+### 🎓 Formação Acadêmica
+* **Pós-graduação em Engenharia de Produção** – Foco em eficiência e otimização de processos.
+* **Graduação em Engenharia de Software** – (Em andamento).
+* **Graduação em Gestão Comercial.**
+
+### 💼 Projetos em Destaque
+* **StockMaster Pro:** Sistema de PDV e Controle de Estoque (JS Puro).
+* **Barber Shop:** Interface responsiva avançada com foco em UI/UX.
+* **Landing Pages:** Projetos de captura otimizados com Design Responsivo.
+
+---
+
+### 📊 Estatísticas
+![Wellyngton's GitHub stats](https://github-readme-stats.vercel.app/api?username=manywellw&show_icons=true&theme=dark)
+
+---
+
+### 📫 Vamos conversar?
+- 💼 [LinkedIn]((https://www.linkedin.com/in/manywell-wellyngton/))
+- 📂 [Meu Portfólio](https://manywellw.github.io)
+- 🌍 Atualmente em **Oxford, UK**.
+
+*"A tecnologia é a ferramenta que potencializa a gestão eficiente."*
