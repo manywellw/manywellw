@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Desenvolvedor Full Stack em Formação | Especialista em Processos e Logística
 
-Sou um entusiasta de tecnologia em transição de carreira. Unindo minha bagagem em **PCP, chão de fábrica e processos** e **Comercial** com o curso de **Engenharia de Software**, foco em criar soluções de software que otimizam processos reais e entregam valor estratégico.
+Sou um entusiasta de tecnologia em transição de carreira. Unindo minha bagagem em **PCP, chão de fábrica, processos** e **Comercial** com o curso de **Engenharia de Software** (em andamento), foco em criar soluções de software que otimizam processos reais e entregam valor estratégico.
 
 ---
 
