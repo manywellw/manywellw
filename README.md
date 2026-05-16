@@ -1,4 +1,4 @@
-# Olá, me chamo Manywell (único kkkkk) ! 👋
+# Olá, me chamo Manywell
 
 ### 👨‍💻 Desenvolvedor Full Stack em Formação | Especialista em Processos e Logística
 
