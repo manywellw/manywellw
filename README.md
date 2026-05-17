@@ -1,14 +1,15 @@
 # Olá, me chamo Manywell
 
-### 👨‍💻 Desenvolvedor Full Stack em Formação | Especialista em Processos e Logística
+### 👨‍💻 Desenvolvedor Mobile | Full stack | Especialista em Processos e Logística
 
-Sou um entusiasta de tecnologia em transição de carreira. Unindo minha bagagem em **PCP, chão de fábrica, processos** e **Comercial** com o curso de **Engenharia de Software** (em andamento), foco em criar soluções de software que otimizam processos reais e entregam valor estratégico.
+ **Engenharia de Software** (em andamento), foco em criar soluções de software que otimizam processos reais e entregam valor estratégico.
 
 ---
 
 ### 🚀 Jornada de Aprendizado (Full Stack)
 Estou seguindo um roteiro intensivo de desenvolvimento, com foco em:
 
+- **Mobile:** Flutter - Dart
 - **Frontend:** HTML5, CSS3 (SASS), React.jse Next.js.
 - **Backend:** Node.js, Express, MongoDB
 - **Linguagens:** JavaScript (ES6+), TypeScript
@@ -17,6 +18,8 @@ Estou seguindo um roteiro intensivo de desenvolvimento, com foco em:
 ---
 
 ### 🛠️ Tecnologias & Habilidades
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
