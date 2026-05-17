@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Jornada de Aprendizado (Full Stack)
+### 🚀 Jornada
 Estou seguindo um roteiro intensivo de desenvolvimento, com foco em:
 
 - **Mobile:** Flutter - Dart
