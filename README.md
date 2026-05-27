@@ -1,6 +1,6 @@
 # Olá, me chamo Manywell
 
-### 👨‍💻 Desenvolvedor Mobile | Full stack | Especialista em Processos e Logística
+### 👨‍💻 Desenvolvedor Mobile | Full stack 
 
  **Engenharia de Software** (em andamento), foco em criar soluções de software que otimizam processos reais e entregam valor estratégico.
 
