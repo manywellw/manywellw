@@ -1,6 +1,6 @@
 # Olá, me chamo Manywell
 
-### 👨‍💻 Desenvolvedor Mobile | Full stack 
+### 👨‍💻 Desenvolvedor Web Full stack || Mobile
 
  **Engenharia de Software** (em andamento), foco em criar soluções de software que otimizam processos reais e entregam valor estratégico.
 
