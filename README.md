@@ -30,9 +30,11 @@ Estou seguindo um roteiro intensivo de desenvolvimento, com foco em:
 ---
 
 ### 🎓 Formação Acadêmica
-* **Pós-graduação em Engenharia de Produção** – Foco em eficiência e otimização de processos.
+* **Pós-graduação em Liderança e gestão de equipes de alta performance ** (Em andamento).
 * **Graduação em Engenharia de Software** – (Em andamento).
-* **Graduação em Gestão Comercial.**
+
+* **Pós-graduação em Engenharia de Produção** – Foco em eficiência e otimização de processos. (formado)
+* **Graduação em Gestão Comercial.** (formado)
 
 ### 💼 Projetos em Destaque
 * **StockMaster Pro:** Sistema de PDV e Controle de Estoque (JS Puro).
